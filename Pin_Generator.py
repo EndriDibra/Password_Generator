@@ -38,7 +38,7 @@ else:
     password = " "
 
     # Initializing password with a for loop
-    for i in range(0, length-1):
+    for i in range(length):
 
         password += random.choice(list7)
 
@@ -48,7 +48,7 @@ else:
         # Setting password to null again, to re-generated
         password = " "
 
-        for i in range(0, length-1):
+        for i in range(length):
             password += random.choice(list7)
 
     # If password contains all the required characters, it will be printed
