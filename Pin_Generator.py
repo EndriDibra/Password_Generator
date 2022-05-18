@@ -29,7 +29,7 @@ else:
     list5 = ['n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
     # list6: a list with symbols
-    list6 = ['#', '$', '!', '&', ']', '[', '%', '(', ')', '*', '@', '^']
+    list6 = ['#', '$', '!', '&', '%', '(', ')', '*', '@', '^']
 
     # list7 : contains random characters of the other lists
     list7 = list1 + list2 + list3 + list4 + list5 + list6
