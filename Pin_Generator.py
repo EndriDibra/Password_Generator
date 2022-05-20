@@ -42,10 +42,10 @@ else:
 
         password += random.choice(list7)
 
-    # Every time that password does not contain the required characters, it will be re-generated it
+    # Every time that password does not contain the required characters, it will be re-generated
     while not (re.search("[a-z]", password) and re.search("[A-Z]", password) and re.search("[0-9]",password) and re.search("[#$!&%()*@^]", password)):
 
-        # Setting password to null again, to re-generated
+        # Setting password to null again, to re-generated it
         password = " "
 
         for i in range(length):
