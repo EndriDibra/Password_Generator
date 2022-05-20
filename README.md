@@ -1,4 +1,5 @@
 # Password_Generator
+Hello dear friends!
 This is a classic password generator project.
 Generating powerful random passwords for any use.  
 This project is done with Python programming language.
