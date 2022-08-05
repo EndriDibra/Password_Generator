@@ -2,6 +2,7 @@
 import random
 import re
 
+
 # Entering the desired length of password
 length = int(input("Choose length for your password, it should be at least 14 \n"))
 
