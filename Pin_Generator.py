@@ -1,6 +1,8 @@
+# Author: Endri Dibra
+
 # using the required libraries
-import random
 import re
+import random
 
 
 # Entering the desired length of password
